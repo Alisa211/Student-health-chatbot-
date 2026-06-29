@@ -1,4 +1,4 @@
-# health_bot_c
+# Student health chatbot 
 Beginner-friendly health chatbot written in C
 
 # 🩺 "Is It Normal?" – Student Health AI Bot 🇮🇳
